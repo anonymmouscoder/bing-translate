@@ -1,7 +1,6 @@
 # bing-translate
 [![NPM version](https://img.shields.io/npm/v/bing-translate-api.svg?style=flat)](https://www.npmjs.org/package/bingtranslator-for-free)
-[![Auto Test](https://github.com/anonymmouscoder/bing-translate/actions/workflows/autotest.yml/badge.svg)](https://github.com/plainheart/bing-translate-api/actions/workflows/autotest.yml)
-[![NPM Downloads](https://img.shields.io/npm/dm/bing-translate-api.svg)](https://npmcharts.com/compare/bingtranslator-for-free?minimal=true)
+[![NPM Downloads](https://img.shields.io/npm/dm/bingtranslator-for-free.svg)](https://npmcharts.com/compare/bingtranslator-for-free?minimal=true)
 [![License](https://img.shields.io/npm/l/bing-translate-api.svg)](https://github.com/anonymmouscoder/bing-translate/blob/master/LICENSE)
 
 A **simple** and **free** package for [Bing Translator](https://bing.com/translator) for Node.js.
