@@ -1,5 +1,5 @@
 # bing-translate
-[![NPM version](https://img.shields.io/npm/v/bing-translate-api.svg?style=flat)](https://www.npmjs.org/package/bingtranslator-for-free)
+[![NPM version](https://img.shields.io/npm/v/bingtranslator-for-free.svg?style=flat)](https://www.npmjs.org/package/bingtranslator-for-free)
 [![NPM Downloads](https://img.shields.io/npm/dm/bingtranslator-for-free.svg)](https://npmcharts.com/compare/bingtranslator-for-free?minimal=true)
 [![License](https://img.shields.io/npm/l/bing-translate-api.svg)](https://github.com/anonymmouscoder/bing-translate/blob/master/LICENSE)
 
